@@ -2,7 +2,7 @@ HR Intern Recruitment Simulation
 
 📌 Overview
 
-This project simulates an end-to-end recruitment process for hiring an HR Intern at TalentBridge Pvt. Ltd. It demonstrates practical application of HR concepts including resume screening, candidate evaluation, and interview design using a structured, data-driven approach.
+This project simulates an end-to-end recruitment process for hiring an HR Intern at TalentBridge Pvt. Ltd. using structured evaluation and Excel-Based scoring. It demonstrates practical application of HR concepts including resume screening, candidate evaluation, and interview design using a structured, data-driven approach.
 
 ---
 
