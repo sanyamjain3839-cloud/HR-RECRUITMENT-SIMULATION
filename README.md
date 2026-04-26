@@ -11,21 +11,19 @@ This project simulates an end-to-end recruitment process for hiring an HR Intern
 Company: TalentBridge Pvt. Ltd.
 Role: HR Intern
 
-This project is designed to replicate a real-world hiring process within a corporate HR environment.
+This project replicates a real-world hiring workflow within a corporate HR environment.
 
 ---
 
 🎯 Objective
 
 - Understand the complete recruitment lifecycle
-- Apply structured and objective candidate evaluation methods
-- Develop practical insight into HR decision-making
+- Apply structured candidate evaluation techniques
+- Develop practical HR decision-making skills
 
 ---
 
 🔄 Recruitment Process
-
-The project follows a 4-stage recruitment workflow:
 
 1. Job Description
 
@@ -35,21 +33,21 @@ The project follows a 4-stage recruitment workflow:
 2. Resume Collection
 
 - Collected and organized 10 candidate resumes
-- Structured and renamed files systematically for analysis
+- Structured files systematically for evaluation
 
 3. Excel Screening
 
-- Evaluated candidates using four criteria:
+- Evaluated candidates using 4 criteria:
   - Excel Skills
   - Communication
   - HR Interest
   - Experience
-- Applied a scoring model using Excel formulas
-- Sorted candidates and highlighted top performers
+- Applied scoring model using Excel formulas
+- Sorted candidates and shortlisted top performers
 
 4. Interview Design
 
-- Developed structured interview questions:
+- Designed structured interview questions:
   - Basic HR Questions
   - Situational Questions
   - Bonus Smart Questions
@@ -59,28 +57,36 @@ The project follows a 4-stage recruitment workflow:
 📊 Evaluation Criteria
 
 Criteria| Description
-Excel Skills| Assessed based on tools and proficiency level
-Communication| Evaluated through resume clarity and structure
-HR Interest| Based on HR exposure and domain relevance
-Experience| Internship and practical experience
+Excel Skills| Assessed based on proficiency and tools
+Communication| Evaluated through resume clarity
+HR Interest| Based on HR-related exposure
+Experience| Internship and practical work
 
 ---
 
 🏆 Final Results
 
-Top candidates were identified based on total scores:
+Top candidates selected based on total scores:
 
-- 🥇 Highest performer with strong Excel skills and HR interest
-- 🥈 Strong communication and relevant experience
-- 🥉 Balanced performance across all evaluation criteria
+- 🥇 Strong Excel skills and HR interest
+- 🥈 Excellent communication and experience
+- 🥉 Balanced performance across criteria
 
 ---
 
-🔍 Key Observations
+📊 Project Impact
 
-- Communication and HR interest were the strongest differentiators
-- Excel skills played a critical role in candidate evaluation
-- Structured scoring improves consistency and decision-making
+- Evaluated 10 candidates using a structured scoring model
+- Improved objectivity in candidate selection
+- Demonstrated practical recruitment workflow
+
+---
+
+🔍 Key Insights
+
+- Communication and HR interest were major differentiators
+- Excel skills played a critical role in evaluation
+- Structured scoring reduces hiring bias
 
 ---
 
@@ -94,31 +100,33 @@ Top candidates were identified based on total scores:
 
 📂 Project Files
 
-- HR_Intern_JD.docx → Job description document
-- HR_Screening.xlsx → Candidate evaluation sheet
-- Interview_Questions.docx → Interview framework
-- HR_Project_Presentation.pptx → Final project presentation
+- HR_Intern_Job_Description.docx → Job description
+- Candidate_Screening_Analysis.xlsx → Evaluation sheet
+- HR_Interview_Framework.docx → Interview questions
+- Recruitment_Simulation_Report.pdf → Final presentation
 
 ---
 
 📸 Screenshots
 
-<img width="1511" height="997" alt="WhatsApp Image 2026-04-27 at 2 39 34 AM" src="https://github.com/user-attachments/assets/ae0a81e3-35f3-4757-bd5b-749f19abbf24" />
-<img width="1600" height="969" alt="WhatsApp Image 2026-04-27 at 2 40 10 AM" src="https://github.com/user-attachments/assets/54da1eba-0ac4-4f54-acb3-91bad7edfcc4" />
-<img width="999" height="965" alt="WhatsApp Image 2026-04-27 at 2 51 49 AM" src="https://github.com/user-attachments/assets/83099bb4-f165-4720-b866-adf915e1509b" />
-<img width="1753" height="982" alt="{6A4C1D1B-397C-4D85-862D-250013B10D64}" src="https://github.com/user-attachments/assets/7cabd071-b628-49e3-b76c-e0ba551f208d" />
-<img width="1764" height="1007" alt="{777BA304-77BC-4910-BBDC-BB44E24739C6}" src="https://github.com/user-attachments/assets/66f59cdf-4c35-47d1-96af-807fa08e636d" />
-<img width="1863" height="978" alt="{BC7EFFFE-C7ED-431E-9ACC-3910BDA66F6B}" src="https://github.com/user-attachments/assets/64b36f0a-1d46-4018-af03-c02f5910fae0" />
+Candidate Evaluation (Excel)
+<img width="1778" height="968" alt="{1AF2615F-D18F-4EE6-AC41-A9620FC5FB6F}" src="https://github.com/user-attachments/assets/34d5f678-33b5-450f-8e17-42a117e2180e" />
 
 
 
+Project Presentation
 
+<img width="1771" height="984" alt="{9EFE9E95-500A-4F18-830C-886FD2D3AFE7}" src="https://github.com/user-attachments/assets/86ec1dcc-5aba-49d4-bdcc-52ab14b31f57" />
+<img width="1719" height="916" alt="{E99CEBB1-BB90-4AA1-806E-083661E8A5CB}" src="https://github.com/user-attachments/assets/fd600527-8401-4e11-8812-b075c7e315c2" />
+
+
+---
 
 💡 Learning Outcome
 
 - Gained practical understanding of recruitment workflow
-- Learned structured candidate evaluation techniques
-- Developed analytical thinking in HR decision-making
+- Learned structured evaluation and scoring techniques
+- Improved analytical and HR decision-making skills
 
 ---
 
